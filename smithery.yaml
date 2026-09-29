@@ -1,0 +1,6 @@
+name: genpark-dom-readability-boilerplate-remover-skill
+version: 1.0.0
+description: Readability-inspired heuristic algorithm stripping navigation, footers, ads, and sidebars from web content
+command: python
+args:
+  - mcp_server.py
