@@ -1,0 +1,20 @@
+{
+  "name": "genpark-dom-readability-boilerplate-remover-skill",
+  "version": "1.0.0",
+  "description": "Readability-inspired heuristic algorithm stripping navigation, footers, ads, and sidebars from web content",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "readability",
+    "boilerplate-removal",
+    "web-scraper",
+    "dom-pruning",
+    "content-extraction",
+    "python-standard-library",
+    "agent-skills",
+    "agentic-browsing",
+    "token-efficiency",
+    "context-engineering"
+  ]
+}
