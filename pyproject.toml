@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dom-readability-boilerplate-remover-skill"
+version = "1.0.0"
+description = "Readability-inspired heuristic algorithm stripping navigation, footers, ads, and sidebars from web content"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
